@@ -1,4 +1,6 @@
 # Wanderlust — Travel Beyond Borders
+<img width="1817" height="1032" alt="image" src="https://github.com/user-attachments/assets/e4b53004-af2f-4bcf-a147-b5dfe2213b9d" />
+
 
 A modern, responsive travel discovery landing page crafted with semantic HTML5 and vanilla CSS3.
 
