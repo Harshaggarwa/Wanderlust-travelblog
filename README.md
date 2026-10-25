@@ -1,6 +1,6 @@
 # Wanderlust — Travel Beyond Borders
-<img width="1817" height="1032" alt="image" src="https://github.com/user-attachments/assets/e4b53004-af2f-4bcf-a147-b5dfe2213b9d" />
 
+<img width="1817" height="1032" alt="image" src="https://github.com/user-attachments/assets/e4b53004-af2f-4bcf-a147-b5dfe2213b9d" />
 
 A modern, responsive travel discovery landing page crafted with semantic HTML5 and vanilla CSS3.
 
@@ -18,6 +18,7 @@ A modern, responsive travel discovery landing page crafted with semantic HTML5 a
 - **HTML5**: Semantic tags and accessibility landmarks.
 - **CSS3**: Modern layouts with Flexbox and CSS Grid, smooth transitions, custom properties.
 - **Google Fonts**: Outfit & DM Serif Display.
+  **Planning to use Vercel for deployment**
 
 ## Getting Started
 
